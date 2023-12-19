@@ -16,8 +16,8 @@ Now print the distance of the values using the formula math.sqrt
 ### PROGRAM:
 ```
 #Program to distance-between-two-points
-#Developed by : ILAIYADEEPAN . K
-#Reference number : 23013535
+#Developed by : RAHUL. V
+#Reference number : 23006860
 import math
 x1,x2,y1,y2=10,4,6,2
 dis=math.sqrt((pow((x2-x1),2)+pow((y2-y1),2)))
